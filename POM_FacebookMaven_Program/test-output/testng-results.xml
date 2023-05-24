@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T15:34:34 IST" name="Default suite" finished-at="2023-05-24T15:34:53 IST" duration-ms="19293">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T15:34:34 IST" name="Default test" finished-at="2023-05-24T15:34:53 IST" duration-ms="19293">
+      <class name="TestScript.FBHomePageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestScript.FBHomePageTest@51c668e3]" started-at="2023-05-24T15:34:34 IST" name="beforeClass" finished-at="2023-05-24T15:34:39 IST" duration-ms="5412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="LoginTest()[pri:1, instance:TestScript.FBHomePageTest@51c668e3]" started-at="2023-05-24T15:34:39 IST" name="LoginTest" finished-at="2023-05-24T15:34:40 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="HomePageTest()[pri:2, instance:TestScript.FBHomePageTest@51c668e3]" started-at="2023-05-24T15:34:40 IST" name="HomePageTest" finished-at="2023-05-24T15:34:52 IST" duration-ms="12498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method signature="ScreenShot()[pri:3, instance:TestScript.FBHomePageTest@51c668e3]" started-at="2023-05-24T15:34:52 IST" name="ScreenShot" finished-at="2023-05-24T15:34:52 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestScript.FBHomePageTest@51c668e3]" started-at="2023-05-24T15:34:52 IST" name="afterClass" finished-at="2023-05-24T15:34:53 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestScript.FBHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
